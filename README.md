@@ -1,6 +1,6 @@
-# Demand24 pos app
+# Buzlin pos app
 
-Demand24 Multi vendor Service Booking + eCommerce
+buzlin Multi vendor Service Booking + eCommerce
 
 ## Requirements
 *  Flutter SDK setup (version 3.24.0 Stable)
